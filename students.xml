@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<students>
+  <student>
+    <rollNo>101</rollNo>
+    <name>Vipul</name>
+    <age>21</age>
+    <course>MCA</course>
+  </student>
+</students>

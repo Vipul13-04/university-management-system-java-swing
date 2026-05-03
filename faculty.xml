@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<faculties>
+  <faculty>
+    <facultyId>1001</facultyId>
+    <name>Dr. Patil</name>
+    <age>55</age>
+    <subject>ADBMS</subject>
+  </faculty>
+</faculties>
